@@ -6,6 +6,7 @@ public class buyer {
 		// TODO Auto-generated method stub
 //checking for stashes--otherwise rollback only buyer
 		// Git commit checking
+		//check push 
 	}
 
 }
